@@ -1,4 +1,18 @@
-# Facial Expression Recognition
+# FaceAI 🤖
+
+A Python-based face recognition system using OpenCV and Dlib/FaceNet. It detects, encodes, and matches faces in images, video, or webcam streams. Ideal for real-time authentication, attendance, and surveillance. Emphasizes accuracy, privacy, and ethical deployment.
+
+## ⚙️ Features
+- Real-time face detection  
+- 128‑dim embeddings  
+- Fast matching  
+
+## 🚀 Setup
+```bash
+git clone https://github.com/nealmalik07/FaceAI.git
+cd FaceAI
+pip install -r requirements.txt
+python main.py
 
 ## Setup
 
